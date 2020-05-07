@@ -26,6 +26,7 @@ paginate_path: "/blog/page:num/"
 navbar-links:
   Version Française: "index"
   UK Version : "english"
+  Team : "team"
   Testimonials: "testimonials"
   Wall of fame: "walloffame"
 
