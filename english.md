@@ -6,26 +6,18 @@ bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [frontpage]
 ---
 
-# Notre objectif ?
+# Goal
 
-Recovid est un **collectif de citoyens** rassemblant des acteurs de différents milieux économiques et académiques Auvergne Rhône Alpes dans le but de **fabriquer une assistance respiratoire contrôlée non conventionnelle.**
+The aim of the RECOVID project is to **develop an open source VAC with all contributions being under MIT/CC license** allowing other to copy, replicate, derive similar VACs. We try selecting components that are either readily available in hospitals or in FabLabs, to make it as easy as possible to replicate the design. The design is driven by requirements provided by emergency professionals, and aim to make the usage of the device easy and familiar for them.
 
-Avec le pic épidémique, les hôpitaux risquent de manquer de respirateurs (machines de Ventilation Assistée Controlée).
-
-L’idée est de partir des respirateurs manuels et de produire une solution pour les mécaniser avec un bras mécanique et de l’électronique.
+We hope that if our design is successful, it will be replicated by others.
 
 <div class="tab-content" align="center">
     <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
     <video src="video/ambubag-1.mp4" width="330" height="330" align="center" controls preload></video>
 </div>
 
-* Nous souhaitons proposer une **solution open-source & open hardware** pour fabriquer des machines de VAC d’urgence.
-
-* En donnant les codes sources et les schémas aux fablabs et Maker de France, nous serions en capacité de refaire d'autres pièces et équipements.
-
-**Le service de réanimation du CHU Grenoble nous aide à valider le prototype, et, une entreprise de la région Auvergne-Rhones-Alpes contribue au projet en concevant une version certifié et produire une première série pour le CHU.**
-
-# Recovid Spécifications Cliniques
+# Recovid Key features
 
 Recovid se différencie ([par rapport aux autres équipements existants](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#)) par les éléments suivants :
 

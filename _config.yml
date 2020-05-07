@@ -24,7 +24,7 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-  Version Française: "french"
+  Version Française: "index"
   UK Version : "english"
   Testimonials: "testimonials"
   Wall of fame: "walloffame"
