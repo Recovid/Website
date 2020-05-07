@@ -36,6 +36,12 @@ L'Open source et l'Open Hardware permet de faciliter l'accès et la fabrication 
 
 De même, les licences choisies (MIT et CC) permettent à une entreprise de la région Auvergne-Rhones-Alpes de nous aider en concevant une version certifié (V2) et produire une première série.
 
+<div class="tab-content" align="center">
+    <script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+    <video src="video/RECOVID-BOX.mov" width="330" height="330" align="center" controls preload></video>
+</div>
+
+
 # Key Research Question
 
 * What problem are you trying to solve?
