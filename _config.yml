@@ -24,24 +24,8 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-  History : "history"
-  News: "blog"
-  Clinical Ressources:
-    - Méthodologie: "clinical/methodologie"
-    - Key ventilation specifications : "clinical/specifications"
-    - Key results: "clinical/clinicalresults"
-    - Publications : "clinical/publications"
-  DIY Project Ressources:
-    - Instructions générales : "project/startingguide"
-    - Download: "project/download"
-    - Photos : "photos"
-    - Videos : "videos"
-  Community:
-    - Organisation: "community/organisation"
-    - Team: "community/team"
-    - How to contribute: "community/contribute"
-    - Communication: "community/communication"
-  Licences: "licences"
+  Version Française: "history"
+  UK Version : "blog"
   Testimonials: "testimonials"
   Wall of fame: "walloffame"
 
