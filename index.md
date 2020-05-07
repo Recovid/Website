@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RECOVID
-subtitle: Grenoble Emergency Ventilator
+subtitle: Le respirateur Open Source de Grenoble
 bigimg: /img/entete/installation-prototype-V0.jpeg
 tags: [frontpage]
 ---
