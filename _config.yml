@@ -4,7 +4,7 @@
 title: RECOVID
 
 # Short description of your site
-description: DIY Ventilator
+description: Grenoble Emergency Ventilator
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -16,16 +16,16 @@ description: DIY Ventilator
 # baseurl should be an empty string
 #baseurl: ""
 
-url: "https://rstephane.github.io"
-baseurl: "/jekyll_website"
+url: "https://recovid.github.io"
+baseurl: "/Website"
 paginate_path: "/blog/page:num/"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Version Française: "history"
-  UK Version : "blog"
+  Version Française: "french"
+  UK Version : "english"
   Testimonials: "testimonials"
   Wall of fame: "walloffame"
 
@@ -127,7 +127,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : "recovid/Website" # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
