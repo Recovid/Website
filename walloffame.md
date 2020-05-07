@@ -20,7 +20,7 @@ Ci dessous les contributeurs au projet. Ces personnes sont très importantes : *
 |:--- |:--- |
 |  ![](img/partners/LogoSimep.png) |  ![](img/partners/logoSchneider-Electric.jpg)|
 
----
+# Testimonials
 
 > Félicitations pour ce projet fantastique. Si la période est difficile, ça fait du bien de voir ce que l’on peut faire en libérant les énergies et en mutualisant les compétences.
 >
@@ -44,6 +44,8 @@ Ci dessous les contributeurs au projet. Ces personnes sont très importantes : *
 > Et merci encore d'avoir pensé à SIMEP pour ce projet.
 >
 > François DELORT, simep.org
+
+# The community at large
 
 ### Experts domaine médical
 
