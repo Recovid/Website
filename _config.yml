@@ -17,7 +17,7 @@ description: Grenoble Emergency Ventilator
 #baseurl: ""
 
 url: "https://recovid.github.io"
-baseurl: "/Website"
+baseurl: "/website"
 paginate_path: "/blog/page:num/"
 
 # --- Navigation bar options --- #
