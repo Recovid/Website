@@ -52,3 +52,9 @@ De même, les licences choisies (MIT et CC) permettent à une entreprise de la r
 Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
 
 ![](img/images_travaux.png)
+
+# DISCLAIMER
+
+The risks associated with loading, using, modifying and/or developing or reproducing the elements of Recovid prototype by the user are brought to the user's attention, given its particular status, which may make it complicated to use, with the result that its use is reserved for developers and experienced professionals having in-depth adequate knowledge. Users are therefore encouraged to load and test the suitability of the elements of Recovid prototype as regards their requirements in conditions enabling the security of their systems and/or data to be ensured and, more generally, to use and operate it in optimal security conditions.
+
+The elements of Recovid prototype are not medical devices and have not been the subject of official approval. The user must be aware of the licenses under which the elements of Recovid prototype are distributed, and in particular the clauses related to limitation of liability and disclaimer of warranties. Before using any equipment as a medical device, you must verify that this equipment complies with the regulations of the country in which it is used and has been submitted to all necessary clinical tests.

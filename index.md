@@ -60,3 +60,11 @@ De même, les licences choisies (MIT et CC) permettent à une entreprise de la r
 Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam veroeros adipiscing.
 
 ![](img/images_travaux.png)
+
+# AVERTISSEMENT
+
+L'attention de l'utilisateur est attirée sur les risques associés au chargement, à l'utilisation, à la modification et/ou au développement et à la reproduction des éléments du prototype Recovid par l'utilisateur étant donné leur spécificité, qui peut les rendre complexes à manipuler et qui sont donc réservés à des professionnels avertis possédant des connaissances adéquates.
+
+Les utilisateurs sont donc invités à tester l'adéquation des éléments du prototype Recovid à leurs besoins dans des conditions permettant d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus généralement, à l'utiliser et l'exploiter dans des mêmes conditions de sécurité optimales Les éléments du prototype Recovid ne sont pas des dispositifs médicaux et n'ont fait l'objet d'aucune homologation officielle.
+
+L'utilisateur doit prendre connaissance des licences sous lesquelles les éléments du prototype Recovid sont diffusés, et notamment les clauses relatives aux limitations de responsabilité et de garantie. Avant d’utiliser un matériel en tant que dispositif médical, vous devez vérifier que ce matériel est conforme à la réglementation du pays dans lequel il est utilisé et qu’il a subi tous les tests cliniques nécessaires
